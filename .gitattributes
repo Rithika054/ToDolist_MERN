@@ -1,7 +1,7 @@
 *.MERN linguist-detectable=true
 *.html linguist-detectable=false
 *.css linguist-detectable=false
-*.javascript linguist-detectable=false
+*.JavaScript linguist-detectable=false
 *.react linguist-detectable=true
 *.node js linguist-detectable=true
 *.Express linguist-detectable=true
