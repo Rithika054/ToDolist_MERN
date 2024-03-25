@@ -1,4 +1,4 @@
-APP LINK : (https://mern-todolist-frontend-eight.vercel.app/)[https://mern-todolist-frontend-eight.vercel.app/]
+APP LINK : (https://mern-todolist-frontend-eight.vercel.app/)
 # MERN Todo List App
 
 This is a simple Todo List application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack.
