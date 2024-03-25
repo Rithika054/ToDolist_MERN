@@ -1,1 +1,4 @@
 *.MERN linguist-detectable=true
+*.HTML linguist-detectable=false
+*.CSS linguist-detectable=false
+*.javascript linguist-detectable=false
